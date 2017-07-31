@@ -1,2 +1,2 @@
-# boardman
-An easy way to manage projects.
+# Boardman
+An easy way to manage project.
